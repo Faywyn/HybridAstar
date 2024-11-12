@@ -37,10 +37,6 @@ git clone https://github.com/Faywyn/HybridAstar.git
 ```bash
 ./build.sh run
 ```
-or
-```bash
-./build/bin/HybridAstar
-```
 
 4. Press SPACE to restart the search process with a new random start and goal position.
 
