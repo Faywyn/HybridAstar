@@ -1,0 +1,7 @@
+#define CELL_SIZE 10.0
+#define STEP_SIZE 20.0
+#define THETA_SIZE 30.0
+#define STEER_ANGLE 30.0
+#define TURNING_RADIUS 20.0
+#define WINDOW_WIDTH 1080
+#define WINDOW_HEIGHT 1080
