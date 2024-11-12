@@ -41,3 +41,8 @@ git clone https://github.com/Faywyn/HybridAstar.git
 4. Press SPACE to restart the search process with a new random start and goal position.
 
 ## Screenshots
+<p>
+  <img alt="Img 1" src="https://github.com/user-attachments/assets/33359b3c-df4a-4fae-8ad1-ced914a90517">
+  <img alt="Img 2" src="https://github.com/user-attachments/assets/c041d6a1-2aea-470a-ba16-a22d38915710">
+</p>
+
